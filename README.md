@@ -22,8 +22,8 @@ Front-End básico (28 horas)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheusdesatana11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/matheus-de-lima-860954293)
 
 # GitHub status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanWallas)](https://github.com/MatheusLimaa1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLimaa1)](https://github.com/MatheusLimaa1/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanWallas&layout=donut-vertical)](https://github.com/MatheusLimaa1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLimaa1&layout=donut-vertical)](https://github.com/MatheusLimaa1/github-readme-stats)
 
 
