@@ -5,7 +5,7 @@ Faço faculdade de Gestão da Tecnologia da Informação e estou estudando Progr
 
 # Cursos<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚
 
-Design Gráfico (80 horas)
+Design Gráfico (80 horas) - Senac
 
 # Ferramentas e tecnologias 💻
 
