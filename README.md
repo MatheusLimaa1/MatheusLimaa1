@@ -5,6 +5,7 @@ Faço faculdade de Gestão da Tecnologia da Informação e estou estudando Progr
 
 # Cursos<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚
 
+HTML5 e CSS3 - Alura - 60 horas
 
 
 # Ferramentas e tecnologias 💻
