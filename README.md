@@ -16,6 +16,4 @@ Sou Matheus de Lima, estudande de programação Web e Gestão da Tecnologia da I
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLimaa1&layout=donut-vertical)](https://github.com/MatheusLimaa1/github-readme-stats)
 
 
-[Snake animation](https://github.com/seu-usuário-aqui/MatheusLimaa1/blob/output/github-contribution-grid-snake.svg)
-
 
