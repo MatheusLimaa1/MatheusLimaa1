@@ -11,7 +11,7 @@ Sou Matheus de Lima, estudande de programação Web e Gestão da Tecnologia da I
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheusdesantana11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-de-lima-860954293) 
 
 # GitHub status
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=MatheusLimaa1)](https://github.com/MatheusLimaa1/github-readme-stats](https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c)https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLimaa1)](https://github.com/MatheusLimaa1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLimaa1&layout=donut-vertical)](https://github.com/MatheusLimaa1/github-readme-stats)
 
