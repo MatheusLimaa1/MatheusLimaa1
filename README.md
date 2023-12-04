@@ -11,9 +11,11 @@ Sou Matheus de Lima, estudande de programação Web e Gestão da Tecnologia da I
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheusdesantana11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-de-lima-860954293) 
 
 # GitHub status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLimaa1)](https://github.com/MatheusLimaa1/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLimaa1&layout=donut-vertical)](https://github.com/MatheusLimaa1/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/YanWallas">
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusLimaa1&show_icons=true&include_all_commits=true&count_private=false&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusLimaa1&layout=compact&langs_count=7&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
+  </a>
+</p>
 
 
